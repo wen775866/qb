@@ -1,0 +1,6 @@
+{
+  "name": "欢乐斗地主",
+  "description": "经典三人斗地主棋牌游戏，包含叫抢地主、加倍、炸弹王炸、智能AI对战与丰厚金币系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
